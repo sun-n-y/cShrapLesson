@@ -1,0 +1,4 @@
+C:\Users\PC\C#\CsharpProjects\DecisionChallenge\obj\Debug\net8.0\DecisionChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\C#\CsharpProjects\DecisionChallenge\obj\Debug\net8.0\DecisionChallenge.AssemblyInfoInputs.cache
+C:\Users\PC\C#\CsharpProjects\DecisionChallenge\obj\Debug\net8.0\DecisionChallenge.AssemblyInfo.cs
+C:\Users\PC\C#\CsharpProjects\DecisionChallenge\obj\Debug\net8.0\DecisionChallenge.csproj.CoreCompileInputs.cache
