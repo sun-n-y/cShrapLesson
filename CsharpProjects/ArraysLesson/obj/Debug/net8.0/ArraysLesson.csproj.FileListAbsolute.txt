@@ -1,0 +1,14 @@
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\bin\Debug\net8.0\ArraysLesson.exe
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\bin\Debug\net8.0\ArraysLesson.deps.json
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\bin\Debug\net8.0\ArraysLesson.runtimeconfig.json
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\bin\Debug\net8.0\ArraysLesson.dll
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\bin\Debug\net8.0\ArraysLesson.pdb
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.AssemblyInfoInputs.cache
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.AssemblyInfo.cs
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.csproj.CoreCompileInputs.cache
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.dll
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\refint\ArraysLesson.dll
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.pdb
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ArraysLesson.genruntimeconfig.cache
+C:\Users\PC\C#\CsharpProjects\ArraysLesson\obj\Debug\net8.0\ref\ArraysLesson.dll
