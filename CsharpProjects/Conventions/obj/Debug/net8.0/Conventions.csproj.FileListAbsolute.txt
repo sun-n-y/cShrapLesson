@@ -1,0 +1,15 @@
+C:\Users\PC\C#\CsharpProjects\Conventions\bin\Debug\net8.0\Conventions.exe
+C:\Users\PC\C#\CsharpProjects\Conventions\bin\Debug\net8.0\Conventions.deps.json
+C:\Users\PC\C#\CsharpProjects\Conventions\bin\Debug\net8.0\Conventions.runtimeconfig.json
+C:\Users\PC\C#\CsharpProjects\Conventions\bin\Debug\net8.0\Conventions.dll
+C:\Users\PC\C#\CsharpProjects\Conventions\bin\Debug\net8.0\Conventions.pdb
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.AssemblyInfoInputs.cache
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.AssemblyInfo.cs
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.csproj.CoreCompileInputs.cache
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.sourcelink.json
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.dll
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\refint\Conventions.dll
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.pdb
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\Conventions.genruntimeconfig.cache
+C:\Users\PC\C#\CsharpProjects\Conventions\obj\Debug\net8.0\ref\Conventions.dll
